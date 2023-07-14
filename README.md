@@ -4,8 +4,6 @@
 
 <ol>
 <li>Rahul Prasad</li>
-<li>Shobhit Srivastava</li>
-<li>Akansha Aggrawal</li>
 </ol>
 
 ## Installation
